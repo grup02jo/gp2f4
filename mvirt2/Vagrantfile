@@ -1,6 +1,6 @@
 Vagrant.configure("2") do |config|
   config.vm.box = "debian/bullseye64"
-  #config.vm.synced_folder "/Users/oriol/OneDrive/Escriptori/ASIX/gp2f4/codi", "/var/www/html"
+  #config.vm.synced_folder "/Users/oriol/gp2f4/mvirt2", "/var/www/html"
 
   config.vm.hostname = "grup2.fjeclot02.net"
   config.vm.provider "virtualbox" do |v|
