@@ -13,5 +13,7 @@
 		<a href="resta.html">a) Resta de 2 operands</a>
 		<br>
 		<a href="multi.html">a) Multiplicacio de 2 operands</a>
+		<br>
+		<a href="divisio.html">a) Divisio de 2 operands</a>
 	</body>
 <html>
