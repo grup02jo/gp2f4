@@ -11,5 +11,7 @@
 		<a href="suma.html">a) Suma de 2 operands</a>
 		<br>
 		<a href="resta.html">a) Resta de 2 operands</a>
+		<br>
+		<a href="multi.html">a) Multiplicacio de 2 operands</a>
 	</body>
 <html>
