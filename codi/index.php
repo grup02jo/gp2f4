@@ -9,5 +9,7 @@
 	<body>
 		<p><b>CALCUALDORA ARITMÈTICA</b></p>
 		<a href="suma.html">a) Suma de 2 operands</a>
+		<br>
+		<a href="resta.html">a) Resta de 2 operands</a>
 	</body>
 <html>
