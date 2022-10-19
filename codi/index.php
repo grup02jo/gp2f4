@@ -15,5 +15,7 @@
 		<a href="multi.html">a) Multiplicacio de 2 operands</a>
 		<br>
 		<a href="divisio.html">a) Divisio de 2 operands</a>
+		<br>
+		<a href="ip.html">a) Subxarxa</a>
 	</body>
 <html>
